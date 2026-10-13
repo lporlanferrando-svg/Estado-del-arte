@@ -1,0 +1,33 @@
+# ============================================================
+#  Configuración del estado del arte
+#  Edita este fichero y el siguiente ciclo usará los cambios.
+# ============================================================
+
+proyecto: "Estado del arte · Gemelos digitales y mantenimiento predictivo"
+
+# Cada elemento es un término. Si pones una lista, se tratan como
+# sinónimos unidos con OR. El primero de la lista da nombre al término.
+palabras_clave:
+  - ["digital twin", "digital twins"]
+  - "machine learning"
+  - "predictive maintenance"
+
+# Combinaciones que se generan automáticamente (AND entre términos).
+# tamano_min: 1 → también cada término por separado.
+# tamano_max: 3 → hasta los tres juntos.
+combinaciones:
+  tamano_min: 1
+  tamano_max: 3
+
+periodo:
+  desde: 2015
+  hasta: actual        # o un año concreto, p. ej. 2025
+
+plataformas:
+  openalex: true          # necesita OPENALEX_API_KEY (gratis)
+  ieee: true              # necesita IEEE_API_KEY (gratis)
+  semantic_scholar: true  # S2_API_KEY opcional (sin ella va más lento)
+
+novedades:
+  por_consulta: 25     # artículos más recientes que se revisan en cada consulta
+  max_mostradas: 300   # cuántas novedades conserva la web
