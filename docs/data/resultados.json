@@ -1,6 +1,6 @@
 {
  "proyecto": "Estado del arte · Gemelos digitales y mantenimiento predictivo",
- "generado": "2026-10-19T05:57:25+00:00",
+ "generado": "2026-10-26T11:21:29+00:00",
  "demo": false,
  "periodo": {
   "desde": 2015,
@@ -98,55 +98,55 @@
  "conteos": {
   "OpenAlex": {
    "digital twin": {
-    "2026": 30411,
-    "2025": 21246,
-    "2024": 12483,
-    "2023": 9074,
-    "2022": 6043,
-    "2021": 4073,
-    "2020": 2333,
-    "2019": 1289,
-    "2018": 486,
+    "2026": 31375,
+    "2025": 21302,
+    "2024": 12514,
+    "2023": 9105,
+    "2022": 6066,
+    "2021": 4083,
+    "2020": 2334,
+    "2019": 1295,
+    "2018": 487,
     "2017": 127,
     "2016": 45,
     "2015": 11
    },
    "machine learning": {
-    "2025": 269260,
-    "2026": 250014,
-    "2024": 200069,
-    "2023": 153474,
-    "2022": 120377,
-    "2021": 102382,
-    "2020": 81404,
-    "2019": 60202,
-    "2018": 40412,
-    "2017": 25586,
-    "2016": 17277,
-    "2015": 13168
+    "2025": 271014,
+    "2026": 257051,
+    "2024": 200335,
+    "2023": 153720,
+    "2022": 120617,
+    "2021": 102555,
+    "2020": 81531,
+    "2019": 60358,
+    "2018": 40521,
+    "2017": 25672,
+    "2016": 17344,
+    "2015": 13224
    },
    "predictive maintenance": {
-    "2025": 9482,
-    "2026": 8793,
-    "2024": 4246,
-    "2023": 2207,
-    "2022": 1579,
-    "2021": 1357,
-    "2020": 1184,
-    "2019": 868,
-    "2018": 690,
-    "2017": 440,
-    "2016": 335,
-    "2015": 287
+    "2025": 9503,
+    "2026": 9059,
+    "2024": 4259,
+    "2023": 2213,
+    "2022": 1586,
+    "2021": 1358,
+    "2020": 1185,
+    "2019": 871,
+    "2018": 695,
+    "2017": 443,
+    "2016": 338,
+    "2015": 290
    },
    "digital twin + machine learning": {
-    "2026": 4681,
-    "2025": 3047,
-    "2024": 1442,
-    "2023": 919,
-    "2022": 584,
-    "2021": 527,
-    "2020": 228,
+    "2026": 4865,
+    "2025": 3054,
+    "2024": 1446,
+    "2023": 925,
+    "2022": 590,
+    "2021": 528,
+    "2020": 229,
     "2019": 98,
     "2018": 32,
     "2017": 8,
@@ -154,11 +154,11 @@
     "2016": 4
    },
    "digital twin + predictive maintenance": {
-    "2026": 1920,
-    "2025": 1483,
-    "2024": 497,
-    "2023": 260,
-    "2022": 180,
+    "2026": 1984,
+    "2025": 1491,
+    "2024": 498,
+    "2023": 263,
+    "2022": 183,
     "2021": 88,
     "2020": 62,
     "2019": 33,
@@ -166,25 +166,25 @@
     "2017": 2
    },
    "machine learning + predictive maintenance": {
-    "2025": 3316,
-    "2026": 2771,
-    "2024": 1514,
-    "2023": 711,
-    "2022": 506,
-    "2021": 345,
-    "2020": 287,
-    "2019": 176,
+    "2025": 3317,
+    "2026": 2854,
+    "2024": 1516,
+    "2023": 714,
+    "2022": 508,
+    "2021": 347,
+    "2020": 286,
+    "2019": 177,
     "2018": 105,
-    "2017": 41,
+    "2017": 42,
     "2016": 21,
     "2015": 8
    },
    "digital twin + machine learning + predictive maintenance": {
-    "2026": 645,
-    "2025": 505,
-    "2024": 142,
-    "2023": 73,
-    "2022": 58,
+    "2026": 676,
+    "2025": 506,
+    "2024": 143,
+    "2023": 74,
+    "2022": 59,
     "2021": 22,
     "2020": 20,
     "2019": 5,
@@ -192,48 +192,6 @@
    }
   },
   "Semantic Scholar": {
-   "digital twin": {
-    "2015": 12,
-    "2016": 43,
-    "2017": 126,
-    "2018": 480,
-    "2019": 1178,
-    "2020": 2076,
-    "2021": 3274,
-    "2022": 4561,
-    "2023": 6463,
-    "2024": 8524,
-    "2025": 13957,
-    "2026": 15349
-   },
-   "predictive maintenance": {
-    "2015": 297,
-    "2016": 343,
-    "2017": 437,
-    "2018": 674,
-    "2019": 816,
-    "2020": 989,
-    "2021": 1102,
-    "2022": 1116,
-    "2023": 1478,
-    "2024": 2724,
-    "2025": 5922,
-    "2026": 4490
-   },
-   "digital twin + machine learning": {
-    "2015": 1,
-    "2016": 1,
-    "2017": 7,
-    "2018": 29,
-    "2019": 89,
-    "2020": 191,
-    "2021": 268,
-    "2022": 382,
-    "2023": 540,
-    "2024": 831,
-    "2025": 1781,
-    "2026": 2050
-   },
    "digital twin + predictive maintenance": {
     "2015": 0,
     "2016": 0,
@@ -245,36 +203,8 @@
     "2022": 100,
     "2023": 149,
     "2024": 279,
-    "2025": 882,
-    "2026": 863
-   },
-   "machine learning + predictive maintenance": {
-    "2015": 11,
-    "2016": 24,
-    "2017": 40,
-    "2018": 100,
-    "2019": 159,
-    "2020": 236,
-    "2021": 262,
-    "2022": 336,
-    "2023": 442,
-    "2024": 948,
-    "2025": 2016,
-    "2026": 1338
-   },
-   "digital twin + machine learning + predictive maintenance": {
-    "2015": 0,
-    "2016": 0,
-    "2017": 0,
-    "2018": 1,
-    "2019": 4,
-    "2020": 17,
-    "2021": 11,
-    "2022": 35,
-    "2023": 32,
-    "2024": 83,
-    "2025": 301,
-    "2026": 279
+    "2025": 884,
+    "2026": 889
    }
   }
  },
@@ -284,42 +214,70 @@
     {
      "fecha": "2026-10-19",
      "total": 87621
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 88744
     }
    ],
    "machine learning": [
     {
      "fecha": "2026-10-19",
      "total": 1333625
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 1343942
     }
    ],
    "predictive maintenance": [
     {
      "fecha": "2026-10-19",
      "total": 31468
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 31800
     }
    ],
    "digital twin + machine learning": [
     {
      "fecha": "2026-10-19",
      "total": 11574
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 11783
     }
    ],
    "digital twin + predictive maintenance": [
     {
      "fecha": "2026-10-19",
      "total": 4542
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 4621
     }
    ],
    "machine learning + predictive maintenance": [
     {
      "fecha": "2026-10-19",
      "total": 9801
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 9895
     }
    ],
    "digital twin + machine learning + predictive maintenance": [
     {
      "fecha": "2026-10-19",
      "total": 1471
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 1506
     }
    ]
   },
@@ -346,6 +304,10 @@
     {
      "fecha": "2026-10-19",
      "total": 2432
+    },
+    {
+     "fecha": "2026-10-26",
+     "total": 2460
     }
    ],
    "machine learning + predictive maintenance": [
@@ -362,9 +324,1251 @@
    ]
   }
  },
- "novedades": [],
+ "novedades": [
+  {
+   "id": "https://openalex.org/W7213476228",
+   "titulo": "Handling Data Heterogeneity in Edge IoT with Clustered Sequential Federated Learning",
+   "fecha_pub": "2026-11-22",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7213476228",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7209724334",
+   "titulo": "Geometric Hyperbolic Embedding of Metric Graphs Through Graph Decomposition",
+   "fecha_pub": "2026-11-19",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7209724334",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7223078329",
+   "titulo": "Autonomous intelligence for mining productivity: a multi-agent AI approach to operational value creation",
+   "fecha_pub": "2026-11-17",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7223078329",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7220882594",
+   "titulo": "Represent Before Classifying: Frugal Physics-Informed Fusion for Multiclass Fault Diagnosis in Photovoltaic Systems",
+   "fecha_pub": "2026-11-17",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7220882594",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7213734592",
+   "titulo": "Communication Avoiding Parallel Sketching via Sparse Subspace Embeddings",
+   "fecha_pub": "2026-11-15",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7213734592",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7223080283",
+   "titulo": "Exploring Machine Learning Models to Detect Outliers and Multistep Forecasting of Temperature and Groundwater Sensor Networks",
+   "fecha_pub": "2026-11-13",
+   "fuente": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+   "url": "https://openalex.org/W7223080283",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7221495329",
+   "titulo": "GraPEX: GRAdual Pattern EXplainer for multivariate time series classification",
+   "fecha_pub": "2026-11-12",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7221495329",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7222907596",
+   "titulo": "Development of machine learning - based image analysis for high - throughput live cell imaging",
+   "fecha_pub": "2026-11-11",
+   "fuente": "EUR Research Repository (Erasmus University Rotterdam)",
+   "url": "https://openalex.org/W7222907596",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7213990260",
+   "titulo": "Edge-Cloud Machine Learning for Integrity Attack Detection in Smart Grid Telemetry",
+   "fecha_pub": "2026-11-08",
+   "fuente": "HAL",
+   "url": "https://openalex.org/W7213990260",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1145/3799682.3839284",
+   "titulo": "STMA4KD Spatio-Temporal Data Management and Analysis for Knowledge Discovery Workshop",
+   "fecha_pub": "2026-11-07",
+   "fuente": "HAL",
+   "url": "https://doi.org/10.1145/3799682.3839284",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.14042/j.cnki.32.1309.2026.06.005",
+   "titulo": "Theoretical framework, technological pathways, and key sci-tech issues for thorough perception of water disaster scenarios",
+   "fecha_pub": "2026-11-01",
+   "fuente": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "url": "https://doi.org/10.14042/j.cnki.32.1309.2026.06.005",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.14042/j.cnki.32.1309.2026.06.013",
+   "titulo": "Framework for a large-scale hydraulic dispatching model for the Eastern and Middle Routes of the South-to-North Water Diversion Project",
+   "fecha_pub": "2026-11-01",
+   "fuente": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "url": "https://doi.org/10.14042/j.cnki.32.1309.2026.06.013",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1109/jiot.2026.3731192",
+   "titulo": "AI-Integrated Digital Twins for IoT-Based Structural Health Monitoring: Emerging Trends and Future Research Directions",
+   "fecha_pub": "2026-11-01",
+   "fuente": "IEEE Internet of Things Journal",
+   "url": "https://doi.org/10.1109/JIOT.2026.3731192",
+   "plataforma": "Semantic Scholar",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7223163315",
+   "titulo": "Intelligent AoI-energy optimization for IoT over LEO satellite networks",
+   "fecha_pub": "2026-10-27",
+   "fuente": "Bournemouth University Research Online (Bournemouth University)",
+   "url": "https://openalex.org/W7223163315",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "https://openalex.org/W7223165778",
+   "titulo": "From intrusive to non-intrusive model reduction : structure preservation and exact operator inference",
+   "fecha_pub": "2026-10-27",
+   "fuente": "Centrum Wiskunde & Informatica (CWI), the national research institute for mathematics and computer science in the Netherlands",
+   "url": "https://openalex.org/W7223165778",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s10791-026-10753-2",
+   "titulo": "Using digital twins as a shared information model for secure software lifecycle management in IoT",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Discover Computing",
+   "url": "https://doi.org/10.1007/s10791-026-10753-2",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23606729",
+   "titulo": "Digital-twin assimilation of groundwater storage from GRACE-FO and sparse piezometry: a climate-analytics evaluation of depletion-forecast skill for transboundary aquifer compacts",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23606729",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1038/s41598-026-73010-y",
+   "titulo": "Construction of a leak detection and pressure regulation system for municipal water distribution networks integrating digital twin technology",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Scientific Reports",
+   "url": "https://doi.org/10.1038/s41598-026-73010-y",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.67465/mindradix.063.13",
+   "titulo": "Role of Artificial Intelligence and IoT in Pest Monitoring",
+   "fecha_pub": "2026-10-24",
+   "fuente": null,
+   "url": "https://doi.org/10.67465/mindradix.063.13",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin",
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23622918",
+   "titulo": "Boundary Project: Unified Continuity Science and Recoverability-Constrained Systems — Executable Continuity, Clinical History, Crisis and Non-Circular Closure Edition",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23622918",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23617005",
+   "titulo": "EL-RAKHAWI TOPOLOGICAL GENOMIC-IMMUNOLOGICAL MEDICINE FRAMEWORK (ETGIM) A Unified Paradigm for Precision Genomic Medicine, Resonant Blood-Brain Barrier Translocation, and Topological Immune Reset",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23617005",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.17605/osf.io/6dxew",
+   "titulo": "Digital Technologies for Sustainable and Resilient Supply Chains: A Systematic Review of Quantitative Models from Firm to National Economy",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Open Science Framework",
+   "url": "https://doi.org/10.17605/osf.io/6dxew",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23619334",
+   "titulo": "PROGRAMMABLE MANUFACTURING OF BIOMEDICAL NANOROBOTS AT THE LIMIT Programmable Materials x Micro/Nanofabrication x Biocompatibility This high-density English research monograph develops a falsification-oriented architecture for programmable manufacturing of biomedical nano- and microrobots. Its central question is not whether a visually impressive structure can be fabricated, but whether locked geometric, magnetic, elastic and interfacial designs can be reproduced in unselected lots and retain bounded function in biological fluids. The volume treats design identity, two-photon polymerization, laser writing, micromolding, magnetic anisotropy, responsive hydrogels, surface functionalization, protein-rich exposure, metrology, lot variation, digital twins, constrained AI control, mission reliability, retrieval and lifecycle as one evidence chain. It contains 30 distinct mathematical research plates, 82 chapters, 410 independently paginated section studies, 200 detailed Research Gates and 33 Phoenix Answer Embryos. Every formula is paired with units, assumptions, identifiability requirements, a blind falsification challenge and chapter interfaces. Every Research Gate specifies why the question matters, a minimum independent protocol, required evidence, competing explanations and a stop or abstention rule. DOI-linked references are used with explicit evidence boundaries: component demonstrations and reviews do not automatically validate integrated manufacturing qualification. The scientific scope is deliberately nonclinical. Fabrication precision, motion, short-term cytocompatibility or model confidence do not establish therapeutic efficacy, autonomous in-body operation, human safety, regulatory approval or reliable clearance. The proposed minimum evidence object is a traceable design-to-qualified-mission mapping that preserves failed lots, raw data, uncertainty, safe-stop behavior, retrieval and independent reconstruction.",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23619334",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1177/09544062261495618",
+   "titulo": "A multi-source-calibrated DT-KG method for multidimensional tool-wear evolution analysis and intelligent prediction in machine tools",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science",
+   "url": "https://doi.org/10.1177/09544062261495618",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s43621-026-04957-1",
+   "titulo": "AI-driven innovations in solar energy systems: advances, challenges, and emerging trends",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Discover Sustainability",
+   "url": "https://doi.org/10.1007/s43621-026-04957-1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23611054",
+   "titulo": "Data for: Talking to the twin: a systematic review of language interfaces, extended reality and digital twins for mobile robots",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23611054",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s00170-026-19307-8",
+   "titulo": "Fidelity metric with 3D shape descriptor for digital twin standardization",
+   "fecha_pub": "2026-10-24",
+   "fuente": "The International Journal of Advanced Manufacturing Technology",
+   "url": "https://doi.org/10.1007/s00170-026-19307-8",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/j.jsr.2026.10.005",
+   "titulo": "Research status and prospect of digital twin technology in civil engineering construction safety : A systematic review",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Journal of Safety Research",
+   "url": "https://doi.org/10.1016/j.jsr.2026.10.005",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23608282",
+   "titulo": "Ecosystem Digital Twin — Agent Skill",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23608282",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s12046-026-03487-w",
+   "titulo": "Physics-informed machine learning framework for predictive maintenance and multi-fault classification in centrifugal pumps",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Sadhana",
+   "url": "https://doi.org/10.1007/s12046-026-03487-w",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23618144",
+   "titulo": "Multimodal Explainable AI-Based Predictive Maintenance and Fault Detection System for Three-Phase AC Motor",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23618144",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.65713/ijsitv2i403",
+   "titulo": "AI-ASSISTED OPTIMIZATION OF ADDITIVE MANUFACTURING: PROCESS CONTROL, DEFECT PREDICTION, AND SUSTAINABLE PRODUCTION",
+   "fecha_pub": "2026-10-24",
+   "fuente": "IJSIT",
+   "url": "https://doi.org/10.65713/ijsitv2i403",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23622812",
+   "titulo": "Boundary Project: Unified Continuity Science and Recoverability-Constrained Systems Integrated Meta-Universal Living-System, Governance, and Executable Research Edition — Version 24.0",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23622812",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23615512",
+   "titulo": "Code, derived data and ArcMap maps for: Digital twin of an Indian Himalayan glacier using artificial intelligence, machine learning, satellite imagery and simulated IoT sensors: Chhota Shigri Glacier, Chandra Basin",
+   "fecha_pub": "2026-10-24",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23615512",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.26437/wtghzb40",
+   "titulo": "Artificial Intelligence-Driven Digital Twin for Disease Progression Prediction: A Comprehensive Review",
+   "fecha_pub": "2026-10-24",
+   "fuente": "African Journal Of Applied Research",
+   "url": "https://doi.org/10.26437/wtghzb40",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.54878/kqmk7y45",
+   "titulo": "E-Rain Smart Storm Water Inlets Gate The GREEN MANAGEMENT for Smart Cities Roads Drain Rain System",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Emirati Journal of Civil Engineering and Applications",
+   "url": "https://doi.org/10.54878/kqmk7y45",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/j.oceaneng.2026.128994",
+   "titulo": "Evolution law of low dimensional flow structures of tip leakage vortex cavitation under extreme operating conditions of tidal current turbine based on Dynamic Mode Decomposition",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Ocean Engineering",
+   "url": "https://doi.org/10.1016/j.oceaneng.2026.128994",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.17605/osf.io/apv2u",
+   "titulo": "Embedded Artificial Intelligence for Anomaly Detection",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Open Science Framework",
+   "url": "https://doi.org/10.17605/osf.io/apv2u",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1201/9781042040476-7",
+   "titulo": "The Role of Artificial Intelligence in Enhancing Predictive Maintenance in Smart Industrial Robotics",
+   "fecha_pub": "2026-10-23",
+   "fuente": "CRC Press eBooks",
+   "url": "https://doi.org/10.1201/9781042040476-7",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-45089-1.00010-1",
+   "titulo": "Advanced cement-based sensors for smart and sustainable infrastructure",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-45089-1.00010-1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "digital twin + machine learning",
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.17148/ijarcce.2026.151078",
+   "titulo": "Carbon FootPrint Tracking in Logistics System: AI-Based Logistics Management Platform",
+   "fecha_pub": "2026-10-23",
+   "fuente": "IJARCCE",
+   "url": "https://doi.org/10.17148/ijarcce.2026.151078",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-45156-0.00009-1",
+   "titulo": "Artificial intelligence for supply chain management in healthcare systems: Innovations for resilience, efficiency, and patient-centric care",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-45156-0.00009-1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1177/00202940261479611",
+   "titulo": "Artificial signal prediction",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Measurement and Control",
+   "url": "https://doi.org/10.1177/00202940261479611",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23604926",
+   "titulo": "Code and analysis: A Deep Learning and TOPSIS Framework for Predictive Maintenance Scheduling in Smart Manufacturing: An Industry 4.0 Approach",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23604926",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4018/979-8-2600-0026-7.ch001",
+   "titulo": "Optimizing Sustainable Energy Engineering With Artificial Intelligence and Machine Learning",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Advances in computational intelligence and robotics book series",
+   "url": "https://doi.org/10.4018/979-8-2600-0026-7.ch001",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-51012-0.00005-6",
+   "titulo": "Monitoring mechanical systems for industrial safety and autonomous monitoring systems of green microbial nanotechnology for sensors",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-51012-0.00005-6",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1201/9781042040476-74",
+   "titulo": "IoT-Enabled Embedded System for Real-Time Cutting Tool Monitoring and Machine Efficiency Optimization",
+   "fecha_pub": "2026-10-23",
+   "fuente": "CRC Press eBooks",
+   "url": "https://doi.org/10.1201/9781042040476-74",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-45831-6.00008-9",
+   "titulo": "An integrated monitoring and decision-making framework for predictive maintenance in Industry 4.0: Experimental validation on a water filtration testbed",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-45831-6.00008-9",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4018/979-8-2600-0026-7.ch008",
+   "titulo": "Machine Learning for Solar Thermal Energy Optimization and Smart Control",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Advances in computational intelligence and robotics book series",
+   "url": "https://doi.org/10.4018/979-8-2600-0026-7.ch008",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23588102",
+   "titulo": "IoT-Enabled Multi-Sensor Edge Monitoring Framework for Real-Time Leakage Detection and Energy Conservation in Reciprocating Compressed Air Systems",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23588102",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1088/2631-8695/aeb8e8",
+   "titulo": "Towards Predictive Maintenance: An Early Warning System for Wind Turbine Generators Based on a Hybrid Deep Learning Model and Dynamic Thresholding",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Engineering Research Express",
+   "url": "https://doi.org/10.1088/2631-8695/aeb8e8",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-51012-0.00002-0",
+   "titulo": "Green microbial nanotechnology sensors for monitoring industrial emissions, waste, water quality, and gas leaks",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-51012-0.00002-0",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-45831-6.00028-4",
+   "titulo": "Data, intelligence, and decision-making in sustainable industries",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-45831-6.00028-4",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "digital twin + machine learning",
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23600230",
+   "titulo": "AI-Based Solar Power Forecasting and Health Monitoring Techniques: Recent Trends and Challenges",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23600230",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "predictive maintenance",
+    "digital twin + machine learning",
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.53294/ijfetr.2026.11.2.0021",
+   "titulo": "Adoption of Automation and Smart Technologies in Modern Textile Production Systems",
+   "fecha_pub": "2026-10-23",
+   "fuente": "International Journal of Frontiers in Engineering and Technology Research",
+   "url": "https://doi.org/10.53294/ijfetr.2026.11.2.0021",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/j.ymssp.2026.115121",
+   "titulo": "Twin-Branch Probabilistic Stress Estimator (TB-PSE): A digital twin approach for large-scale structural static responses analysis",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Mechanical Systems and Signal Processing",
+   "url": "https://doi.org/10.1016/j.ymssp.2026.115121",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-49224-2.00007-0",
+   "titulo": "AI-powered approaches to green infrastructure and smart city development for urban sustainability",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-49224-2.00007-0",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1080/10910344.2026.2744965",
+   "titulo": "Advancements in electrical discharge machining of AMCs: a review of modeling approaches, optimization strategies and sustainability trends",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Machining Science and Technology",
+   "url": "https://doi.org/10.1080/10910344.2026.2744965",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-44388-6.00014-x",
+   "titulo": "Data-driven innovations for crop water management",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-44388-6.00014-x",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-44388-6.00006-0",
+   "titulo": "AI and team science: Advancing interdisciplinary solutions for global water–energy–food challenges",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-44388-6.00006-0",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-54177-3.00012-2",
+   "titulo": "Micromachining",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-54177-3.00012-2",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-44388-6.00018-7",
+   "titulo": "Foreword",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-44388-6.00018-7",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23599295",
+   "titulo": "Part 1: Origin Traces and Secret Military Technologies. Cognitive Warfare: Evidences and Strategies in Cooperation with our digital humans inside the military servers.",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23599295",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1201/9781003648666-3",
+   "titulo": "AI-Driven Modeling and Simulation of Smart Microgrids",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Auerbach Publications eBooks",
+   "url": "https://doi.org/10.1201/9781003648666-3",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.21203/rs.3.rs-11235210/v1",
+   "titulo": "Physics-Informed AI Surrogate Modelling of Thermal and Hydraulic Losses in Omani Crude Oil Pipelines Using RHLI-Based Analysis, Uncertainty- Quantification, and Explainable AI",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Research Square",
+   "url": "https://doi.org/10.21203/rs.3.rs-11235210/v1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4018/979-8-2600-0026-7.ch012",
+   "titulo": "Forecasting Electrical Load and Renewable Energy Generation Using Machine Learning Methods",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Advances in computational intelligence and robotics book series",
+   "url": "https://doi.org/10.4018/979-8-2600-0026-7.ch012",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-44388-6.00008-4",
+   "titulo": "Artificial intelligence at the crossroads of water, energy, and food: Setting the stage for sustainable integration",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-44388-6.00008-4",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4018/979-8-2600-0026-7.ch011",
+   "titulo": "Application of Artificial Intelligence and Machine Learning Methods to Optimize Energy System Stability",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Advances in computational intelligence and robotics book series",
+   "url": "https://doi.org/10.4018/979-8-2600-0026-7.ch011",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-44388-6.00004-7",
+   "titulo": "AI-driven approaches for water stress monitoring and sustainable resource management in agriculture",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-44388-6.00004-7",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1201/9781003656470-1",
+   "titulo": "Introduction to Dark Patterns",
+   "fecha_pub": "2026-10-23",
+   "fuente": "CRC Press eBooks",
+   "url": "https://doi.org/10.1201/9781003656470-1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-44384-8.00017-7",
+   "titulo": "Artificial intelligence and IoT in food preservation systems",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-44384-8.00017-7",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + machine learning"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/b978-0-443-49224-2.00005-7",
+   "titulo": "Integrating IoT with the manufacturing industry",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Elsevier eBooks",
+   "url": "https://doi.org/10.1016/b978-0-443-49224-2.00005-7",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4018/979-8-2600-0026-7.ch005",
+   "titulo": "Digital Intelligence and AI-Based System Optimization in Waste-to-Energy Infrastructure for Net-Zero Cities",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Advances in computational intelligence and robotics book series",
+   "url": "https://doi.org/10.4018/979-8-2600-0026-7.ch005",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1201/9781042040476-79",
+   "titulo": "Enhancing SAP Predictive Maintenance and Industrial Analytics with LLM-Driven Automation",
+   "fecha_pub": "2026-10-23",
+   "fuente": "CRC Press eBooks",
+   "url": "https://doi.org/10.1201/9781042040476-79",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s00170-026-19404-8",
+   "titulo": "Hybrid digital twin for temperature forecasting of a three-phase squirrel-cage motor: an industrial case study on a plastic extrusion machine",
+   "fecha_pub": "2026-10-23",
+   "fuente": "The International Journal of Advanced Manufacturing Technology",
+   "url": "https://doi.org/10.1007/s00170-026-19404-8",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23588628",
+   "titulo": "Scientific1900: Trained Models for Multi-Fault Diagnosis and Anomaly Detection",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23588628",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s10845-026-03011-1",
+   "titulo": "Vibration-based fault diagnosis of rolling bearings in rotating machinery: a systematic review of signal processing, machine learning, deep learning, and transfer learning approaches",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Journal of Intelligent Manufacturing",
+   "url": "https://doi.org/10.1007/s10845-026-03011-1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s41062-026-03063-5",
+   "titulo": "A conceptual AI-driven architecture coupling sustainable materials data and structural performance",
+   "fecha_pub": "2026-10-23",
+   "fuente": "Innovative Infrastructure Solutions",
+   "url": "https://doi.org/10.1007/s41062-026-03063-5",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4018/979-8-2600-1182-9.ch002",
+   "titulo": "Digital Servitization in Service-Oriented Manufacturing Through Dynamic Capabilities and Supply Chain Transformation",
+   "fecha_pub": "2026-10-22",
+   "fuente": "IGI Global eBooks",
+   "url": "https://doi.org/10.4018/979-8-2600-1182-9.ch002",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23566195",
+   "titulo": "Green AI Strategies for Reducing Energy Consumption and Carbon Emissions in Industrial Systems: Green AI: Industrial Energy and Carbon Reduction",
+   "fecha_pub": "2026-10-22",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23566195",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23562745",
+   "titulo": "AI-Based Digital Twin for Predictive Maintenance",
+   "fecha_pub": "2026-10-22",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23562745",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.3390/jmse14211988",
+   "titulo": "Literature Review Analysis: Fault Diagnostics of Marine Engines",
+   "fecha_pub": "2026-10-22",
+   "fuente": "Journal of Marine Science and Engineering",
+   "url": "https://doi.org/10.3390/jmse14211988",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.4108/tsoe.14956",
+   "titulo": "Hybrid GRU-VAE and Spectral Residual Anomaly Detection for OWC Predictive Maintenance: A Technical and Economic Assessment at Chu Lai Port",
+   "fecha_pub": "2026-10-22",
+   "fuente": "EAI Endorsed Transactions on Transportation Systems and Ocean Engineering",
+   "url": "https://doi.org/10.4108/tsoe.14956",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23552297",
+   "titulo": "Machine Learning-Based Predictive Monitoring of Industrial IoT Sensor Data Using Edge Computing",
+   "fecha_pub": "2026-10-22",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23552297",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.64388/irev10i4-1723999",
+   "titulo": "Artificial Intelligence for Predictive Maintenance of Mission-Critical Engineered Systems: A Systematic Review of Methods, Frameworks, and Future Directions",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Iconic Research and Engineering Journals",
+   "url": "https://doi.org/10.64388/irev10i4-1723999",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1111/exsy.70466",
+   "titulo": "Combining Model‐Driven and Data‐Driven Approaches for Predictive Maintenance",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Expert Systems",
+   "url": "https://doi.org/10.1111/exsy.70466",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "machine learning + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.20944/preprints202610.2128.v1",
+   "titulo": "AI-Driven Digital Twin for Real-Time Predictive Maintenance of Structural Components",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Preprints.org",
+   "url": "https://doi.org/10.20944/preprints202610.2128.v1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.3389/fenrg.2026.1910556",
+   "titulo": "An artificial intelligence based framework for smart power grid management using an autonomous and controllable intelligent service hub with multimodal document processing",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Frontiers in Energy Research",
+   "url": "https://doi.org/10.3389/fenrg.2026.1910556",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.62189/ci.1974430",
+   "titulo": "A unified ensemble learning framework for electric motor fault diagnosis, thermal state prediction, and remaining useful life estimation",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Computers and Informatics",
+   "url": "https://doi.org/10.62189/ci.1974430",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23531402",
+   "titulo": "Explainable Machine Learning for Predictive Maintenance of Industrial Machines: A Comparative Study on Failure Prediction",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23531402",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23531384",
+   "titulo": "DEVELOPMENT OF AN INTELLIGENT INDUSTRIAL ENGINEERING MODEL FOR MATERIAL WASTE MINIMIZATION AND SUSTAINABLE PRODUCTION IN ABIA STATE",
+   "fecha_pub": "2026-10-21",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23531384",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s42417-026-02829-6",
+   "titulo": "Vibration-Based Estimation of Wheel-Rail Contact Forces Using an Extended Kalman Filter for Wheel Condition Monitoring",
+   "fecha_pub": "2026-10-20",
+   "fuente": "Journal of Vibration Engineering & Technologies",
+   "url": "https://doi.org/10.1007/s42417-026-02829-6",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1007/s10973-026-16477-1",
+   "titulo": "Artificial intelligence for thermal and exergy optimization of steam cycle power plants: a review",
+   "fecha_pub": "2026-10-20",
+   "fuente": "Journal of Thermal Analysis and Calorimetry",
+   "url": "https://doi.org/10.1007/s10973-026-16477-1",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23497167",
+   "titulo": "Making It Trustworthy",
+   "fecha_pub": "2026-10-20",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23497167",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1016/j.jobe.2026.117593",
+   "titulo": "Machine learning-enabled fault diagnosis and predictive maintenance in building management systems",
+   "fecha_pub": "2026-10-20",
+   "fuente": "Journal of Building Engineering",
+   "url": "https://doi.org/10.1016/j.jobe.2026.117593",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.1038/s41598-026-75987-y",
+   "titulo": "Optimized machine learning approach for intelligent dust contamination prediction in solar photovoltaic systems",
+   "fecha_pub": "2026-10-20",
+   "fuente": "Scientific Reports",
+   "url": "https://doi.org/10.1038/s41598-026-75987-y",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23459496",
+   "titulo": "THE PHYSICO-MATHEMATICAL INTELLIGENCE OF ENERGY FROM WIND EQUATIONS TO LEGAL FRAMEWORKS A Unified Theory of Wind Energy Physics, Mathematical Optimization, Artificial Intelligence, and Energy Law",
+   "fecha_pub": "2026-10-18",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23459496",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.62441/actainnovations.vi.1869",
+   "titulo": "DIGITAL TWIN AND IOT-ENABLED PREDICTIVE MAINTENANCE MARKETING: A USAGE-COUPLED CONFORMAL REPLENISHMENT FRAMEWORK FOR ENHANCING B2B CUSTOMER LOYALTY IN AVIATION SUPPLY CHAINS",
+   "fecha_pub": "2026-10-18",
+   "fuente": "Acta Innovations",
+   "url": "https://doi.org/10.62441/actainnovations.vi.1869",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.5281/zenodo.23430590",
+   "titulo": "Artificial Intelligence in Pharmaceutical Manufacturing and Quality Assurance: Applications, Opportunities, Challenges, and Future Perspectives",
+   "fecha_pub": "2026-10-17",
+   "fuente": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.23430590",
+   "plataforma": "OpenAlex",
+   "consultas": [
+    "digital twin + predictive maintenance",
+    "digital twin + machine learning + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  },
+  {
+   "id": "10.36348/gajeb.2026.v08i05.073",
+   "titulo": "AI-Enabled Predictive Maintenance for Improving the Resilience of Mission-Critical Data Center Infrastructure in Saudi Arabia",
+   "fecha_pub": "2026-10-14",
+   "fuente": "Global academic journal of economics and business",
+   "url": "https://doi.org/10.36348/gajeb.2026.v08i05.073",
+   "plataforma": "Semantic Scholar",
+   "consultas": [
+    "digital twin + predictive maintenance"
+   ],
+   "detectado": "2026-10-26"
+  }
+ ],
  "errores": [
   "IEEE Xplore omitido: falta IEEE_API_KEY",
-  "Semantic Scholar · machine learning · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos"
+  "Semantic Scholar · digital twin · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos",
+  "Semantic Scholar · machine learning · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos",
+  "Semantic Scholar · predictive maintenance · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos",
+  "Semantic Scholar · digital twin + machine learning · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos",
+  "Semantic Scholar · machine learning + predictive maintenance · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos",
+  "Semantic Scholar · digital twin + machine learning + predictive maintenance · conteos: https://api.semanticscholar.org/graph/v1/paper/search/bulk devolvió 429 tras 5 intentos"
  ]
 }
