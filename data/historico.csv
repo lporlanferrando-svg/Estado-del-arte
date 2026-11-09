@@ -344,3 +344,166 @@ fecha,plataforma,consulta,anio,n
 2026-11-02,Semantic Scholar,machine learning + predictive maintenance,2024,957
 2026-11-02,Semantic Scholar,machine learning + predictive maintenance,2025,2038
 2026-11-02,Semantic Scholar,machine learning + predictive maintenance,2026,1440
+2026-11-09,OpenAlex,digital twin,2015,12
+2026-11-09,OpenAlex,digital twin,2016,44
+2026-11-09,OpenAlex,digital twin,2017,128
+2026-11-09,OpenAlex,digital twin,2018,481
+2026-11-09,OpenAlex,digital twin,2019,1285
+2026-11-09,OpenAlex,digital twin,2020,2299
+2026-11-09,OpenAlex,digital twin,2021,3877
+2026-11-09,OpenAlex,digital twin,2022,5947
+2026-11-09,OpenAlex,digital twin,2023,8937
+2026-11-09,OpenAlex,digital twin,2024,12256
+2026-11-09,OpenAlex,digital twin,2025,20995
+2026-11-09,OpenAlex,digital twin,2026,33737
+2026-11-09,OpenAlex,machine learning,2015,12750
+2026-11-09,OpenAlex,machine learning,2016,17001
+2026-11-09,OpenAlex,machine learning,2017,25223
+2026-11-09,OpenAlex,machine learning,2018,39926
+2026-11-09,OpenAlex,machine learning,2019,59403
+2026-11-09,OpenAlex,machine learning,2020,79584
+2026-11-09,OpenAlex,machine learning,2021,99012
+2026-11-09,OpenAlex,machine learning,2022,116686
+2026-11-09,OpenAlex,machine learning,2023,148942
+2026-11-09,OpenAlex,machine learning,2024,195189
+2026-11-09,OpenAlex,machine learning,2025,266670
+2026-11-09,OpenAlex,machine learning,2026,274660
+2026-11-09,OpenAlex,predictive maintenance,2015,284
+2026-11-09,OpenAlex,predictive maintenance,2016,330
+2026-11-09,OpenAlex,predictive maintenance,2017,432
+2026-11-09,OpenAlex,predictive maintenance,2018,690
+2026-11-09,OpenAlex,predictive maintenance,2019,871
+2026-11-09,OpenAlex,predictive maintenance,2020,1171
+2026-11-09,OpenAlex,predictive maintenance,2021,1338
+2026-11-09,OpenAlex,predictive maintenance,2022,1567
+2026-11-09,OpenAlex,predictive maintenance,2023,2179
+2026-11-09,OpenAlex,predictive maintenance,2024,4245
+2026-11-09,OpenAlex,predictive maintenance,2025,9486
+2026-11-09,OpenAlex,predictive maintenance,2026,10109
+2026-11-09,OpenAlex,digital twin + machine learning,2015,4
+2026-11-09,OpenAlex,digital twin + machine learning,2016,4
+2026-11-09,OpenAlex,digital twin + machine learning,2017,8
+2026-11-09,OpenAlex,digital twin + machine learning,2018,32
+2026-11-09,OpenAlex,digital twin + machine learning,2019,96
+2026-11-09,OpenAlex,digital twin + machine learning,2020,228
+2026-11-09,OpenAlex,digital twin + machine learning,2021,354
+2026-11-09,OpenAlex,digital twin + machine learning,2022,579
+2026-11-09,OpenAlex,digital twin + machine learning,2023,917
+2026-11-09,OpenAlex,digital twin + machine learning,2024,1410
+2026-11-09,OpenAlex,digital twin + machine learning,2025,3016
+2026-11-09,OpenAlex,digital twin + machine learning,2026,5348
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2017,2
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2018,17
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2019,34
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2020,61
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2021,87
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2022,180
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2023,260
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2024,493
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2025,1502
+2026-11-09,OpenAlex,digital twin + predictive maintenance,2026,2201
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2015,8
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2016,20
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2017,39
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2018,103
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2019,179
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2020,283
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2021,342
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2022,501
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2023,710
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2024,1520
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2025,3329
+2026-11-09,OpenAlex,machine learning + predictive maintenance,2026,3218
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2018,1
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2019,5
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2020,20
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2021,20
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2022,58
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2023,77
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2024,141
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2025,506
+2026-11-09,OpenAlex,digital twin + machine learning + predictive maintenance,2026,741
+2026-11-09,Semantic Scholar,digital twin,2015,12
+2026-11-09,Semantic Scholar,digital twin,2016,44
+2026-11-09,Semantic Scholar,digital twin,2017,127
+2026-11-09,Semantic Scholar,digital twin,2018,479
+2026-11-09,Semantic Scholar,digital twin,2019,1179
+2026-11-09,Semantic Scholar,digital twin,2020,2081
+2026-11-09,Semantic Scholar,digital twin,2021,3279
+2026-11-09,Semantic Scholar,digital twin,2022,4565
+2026-11-09,Semantic Scholar,digital twin,2023,6496
+2026-11-09,Semantic Scholar,digital twin,2024,8558
+2026-11-09,Semantic Scholar,digital twin,2025,14058
+2026-11-09,Semantic Scholar,digital twin,2026,17005
+2026-11-09,Semantic Scholar,machine learning,2015,14054
+2026-11-09,Semantic Scholar,machine learning,2016,18096
+2026-11-09,Semantic Scholar,machine learning,2017,25593
+2026-11-09,Semantic Scholar,machine learning,2018,39735
+2026-11-09,Semantic Scholar,machine learning,2019,57460
+2026-11-09,Semantic Scholar,machine learning,2020,73569
+2026-11-09,Semantic Scholar,machine learning,2021,86253
+2026-11-09,Semantic Scholar,machine learning,2022,91460
+2026-11-09,Semantic Scholar,machine learning,2023,112342
+2026-11-09,Semantic Scholar,machine learning,2024,142316
+2026-11-09,Semantic Scholar,machine learning,2025,181428
+2026-11-09,Semantic Scholar,machine learning,2026,149622
+2026-11-09,Semantic Scholar,predictive maintenance,2015,297
+2026-11-09,Semantic Scholar,predictive maintenance,2016,347
+2026-11-09,Semantic Scholar,predictive maintenance,2017,438
+2026-11-09,Semantic Scholar,predictive maintenance,2018,680
+2026-11-09,Semantic Scholar,predictive maintenance,2019,820
+2026-11-09,Semantic Scholar,predictive maintenance,2020,993
+2026-11-09,Semantic Scholar,predictive maintenance,2021,1107
+2026-11-09,Semantic Scholar,predictive maintenance,2022,1122
+2026-11-09,Semantic Scholar,predictive maintenance,2023,1488
+2026-11-09,Semantic Scholar,predictive maintenance,2024,2748
+2026-11-09,Semantic Scholar,predictive maintenance,2025,5978
+2026-11-09,Semantic Scholar,predictive maintenance,2026,4997
+2026-11-09,Semantic Scholar,digital twin + machine learning,2015,1
+2026-11-09,Semantic Scholar,digital twin + machine learning,2016,2
+2026-11-09,Semantic Scholar,digital twin + machine learning,2017,7
+2026-11-09,Semantic Scholar,digital twin + machine learning,2018,29
+2026-11-09,Semantic Scholar,digital twin + machine learning,2019,89
+2026-11-09,Semantic Scholar,digital twin + machine learning,2020,192
+2026-11-09,Semantic Scholar,digital twin + machine learning,2021,271
+2026-11-09,Semantic Scholar,digital twin + machine learning,2022,382
+2026-11-09,Semantic Scholar,digital twin + machine learning,2023,542
+2026-11-09,Semantic Scholar,digital twin + machine learning,2024,835
+2026-11-09,Semantic Scholar,digital twin + machine learning,2025,1798
+2026-11-09,Semantic Scholar,digital twin + machine learning,2026,2291
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2015,0
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2016,0
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2017,2
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2018,13
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2019,32
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2020,48
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2021,63
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2022,100
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2023,150
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2024,280
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2025,890
+2026-11-09,Semantic Scholar,digital twin + predictive maintenance,2026,960
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2015,11
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2016,23
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2017,40
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2018,100
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2019,160
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2020,238
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2021,264
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2022,337
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2023,447
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2024,956
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2025,2039
+2026-11-09,Semantic Scholar,machine learning + predictive maintenance,2026,1497
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2015,0
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2016,0
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2017,0
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2018,1
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2019,4
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2020,17
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2021,11
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2022,35
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2023,33
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2024,84
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2025,303
+2026-11-09,Semantic Scholar,digital twin + machine learning + predictive maintenance,2026,310
